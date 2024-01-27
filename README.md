@@ -1,5 +1,7 @@
 # Analytics Dashboard
 
+
+![Live Url](https://geepay-analytics-dashboard.onrender.com/)
 ## Overview
 This project showcases a modern and responsive Analytics Dashboard, designed to provide insightful data visualization using a variety of features and components.
  
@@ -21,7 +23,7 @@ This project showcases a modern and responsive Analytics Dashboard, designed to 
 - **React Hot Toast** 
 - **Scroll Reveal** 
 
-![Walk through](/src/assets/walkthru.gif)
+![Walk through](/walkthru.gif)
 
 ## Getting Started
 To get started with the Analytics Dashboard project, follow these steps:
