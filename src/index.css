@@ -4,9 +4,9 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
   color: rgb(32, 32, 32);
-}
+} 
 :root {
-  font-family: "Proxima Nova", sans-serif;
+  font-family: sans-serif;
   line-height: 1.5;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
